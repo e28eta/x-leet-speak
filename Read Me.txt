@@ -1,0 +1,1 @@
+1. Have a file named 'English.txt' (w/out the ') in the same folder as the		program.2. Run the program.3. Open 1337.txt and marvel at the way it converted your text.Bugs:¥ There may be a couple garbage chars at the end. I'm way to lazy to try to		figure out why right now.
